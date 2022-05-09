@@ -1,0 +1,16 @@
+Program purpose:
+- two modes: Adventurous mode and Meaningful mode
+- related to containers (boxes, bottles, bags, folders, etc.)
+-
+
+public class DataManager
+- stores and manipulates data structures
+
+public class RandomThings
+
+public class Container
+- superclass of ...
+instance variables:
+- public String color
+- public String size
+- public Item item
