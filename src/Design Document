@@ -1,16 +1,24 @@
 Program purpose:
-- two modes: Adventurous mode and Meaningful mode
+- three modes: Adventurous mode and Meaningful mode and Management mode
+    - Adventurous mode means random fun events
+    - Meaningful mode means random not-fun events
+    - Management mode means to help with time/workload management
 - related to containers (boxes, bottles, bags, folders, etc.)
 -
 
 public class DataManager
 - stores and manipulates data structures
 
+public class Player
+-
+
 public class RandomThings
+- generate random things/events
 
 public class Container
 - superclass of ...
 instance variables:
 - public String color
-- public String size
+- public String visualSize
 - public Item item
+-
