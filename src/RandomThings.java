@@ -20,10 +20,11 @@ public class RandomThings {
         colors.add("light-blue");
         colors.add("dark-green");
 
-        status.add("confused");
+        status.add("confused about life");
         status.add("on fire");
         status.add("freezing");
-        status.add("");
-        status.add("");
+        status.add("sleepy");
+        status.add("bored and want to close this program");
+        status.add("happy and want to close this program");
     }
 }

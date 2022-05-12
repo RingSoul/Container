@@ -9,6 +9,6 @@ public class Player {
         hunger = 5;
         intelligence = 5;
         sanity = 5;
-        status = ;
+        status = "confused about life";
     }
 }
